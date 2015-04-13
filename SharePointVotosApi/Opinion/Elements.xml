@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">  
+  <Field
+       ID="{b8c8b126-0c72-43df-b6dc-3a803c183f7a}"
+       Name="Opinion"
+       DisplayName="Opinion"
+       Type="Note"
+       Required="TRUE"
+       Group="Custom Site Columns">
+  </Field>
+</Elements>

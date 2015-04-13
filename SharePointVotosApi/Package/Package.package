@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="14bf71c7-0b9c-4ad7-891a-689700193d41" solutionId="14bf71c7-0b9c-4ad7-891a-689700193d41" resetWebServer="false" sharePointProductVersion="16.0" name="SharePointVotosApi" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="ef70e27d-1382-4d8b-bd01-7164ef56503c" />
+    <featureReference itemId="000f9828-741c-4f8a-a122-5b01fdb07ad4" />
+  </features>
+</package>
